@@ -1,6 +1,6 @@
 module github.com/nuocmam75009/todo_golang
 
-go 1.18
+go 1.23.1
 
 require (
 	fyne.io/fyne/v2 v2.5.1
